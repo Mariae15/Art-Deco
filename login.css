@@ -1,3 +1,7 @@
+*{
+    margin: 1280px, 720px;
+}
+
 body{
     background-color: peru;
     text-align: center;
